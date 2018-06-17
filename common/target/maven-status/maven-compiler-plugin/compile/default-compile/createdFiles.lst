@@ -1,0 +1,6 @@
+com\ifsworld\rnd\intern\openapi\generator\common\ListUtils.class
+com\ifsworld\rnd\intern\openapi\generator\common\SwaggerKeys.class
+com\ifsworld\rnd\intern\openapi\generator\common\JsonUtils.class
+com\ifsworld\rnd\intern\openapi\generator\common\WriteJsonToFile.class
+com\ifsworld\rnd\intern\openapi\generator\common\ServiceRoot.class
+com\ifsworld\rnd\intern\openapi\generator\common\ResourceLocator.class

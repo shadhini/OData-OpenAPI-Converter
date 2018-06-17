@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/common/common.iml" filepath="$PROJECT_DIR$/common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/metadata-parser/metadata-parser.iml" filepath="$PROJECT_DIR$/metadata-parser/metadata-parser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/odata-openapi-converter.iml" filepath="$PROJECT_DIR$/odata-openapi-converter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/odata-openapi-mapper/odata-openapi-mapper.iml" filepath="$PROJECT_DIR$/odata-openapi-mapper/odata-openapi-mapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/swagger/swagger.iml" filepath="$PROJECT_DIR$/swagger/swagger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webapp/webapp.iml" filepath="$PROJECT_DIR$/webapp/webapp.iml" />
+    </modules>
+  </component>
+</project>

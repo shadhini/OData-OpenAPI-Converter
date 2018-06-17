@@ -1,0 +1,35 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="webapp:war exploded">
+    <output-path>$PROJECT_DIR$/webapp/target/openAPIgenerator</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="webapp" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="archive" name="webapp-1.0-SNAPSHOT.jar">
+            <element id="module-output" name="webapp" />
+          </element>
+          <element id="library" level="project" name="Maven: javax.servlet:javax.servlet-api:3.1.0" />
+          <element id="archive" name="metadata-parser-1.0-SNAPSHOT.jar">
+            <element id="module-output" name="metadata-parser" />
+          </element>
+          <element id="archive" name="common-1.0-SNAPSHOT.jar">
+            <element id="module-output" name="common" />
+          </element>
+          <element id="archive" name="odata-openapi-mapper-1.0-SNAPSHOT.jar">
+            <element id="module-output" name="odata-openapi-mapper" />
+          </element>
+          <element id="archive" name="swagger-1.0-SNAPSHOT.jar">
+            <element id="module-output" name="swagger" />
+          </element>
+          <element id="library" level="project" name="Maven: org.glassfish:javax.json:1.0.4" />
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/webapp/target/openAPIgenerator/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="webapp/web/Web" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,5 @@
+com\ifsworld\rnd\intern\openapi\generator\odata_openapi_mapper\PathMapper.class
+com\ifsworld\rnd\intern\openapi\generator\odata_openapi_mapper\SwaggerSpecGenerator.class
+com\ifsworld\rnd\intern\openapi\generator\odata_openapi_mapper\AnnotationMapper.class
+com\ifsworld\rnd\intern\openapi\generator\odata_openapi_mapper\EntityModelsMapper.class
+com\ifsworld\rnd\intern\openapi\generator\odata_openapi_mapper\TypeMapper.class
